@@ -1,8 +1,10 @@
 <div dir="rtl" align="right">
 
-<p align="center">
+<div align="center">
+
 ![MeegMeeg](/coyote_and_the_road_runner.png?raw=true "MeegMeeg")
-</p>  
+
+</div>
 
   
 **خوش آمدید**.
