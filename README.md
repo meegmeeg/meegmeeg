@@ -1,7 +1,7 @@
 <div dir="rtl" align="right">
 
 <p align="center">
-![میگ میگ](/coyote_and_the_road_runner.png?raw=true "میگ میگ")
+![Alt](/coyote_and_the_road_runner.png?raw=true "میگ میگ")
 </p>  
 
   
